@@ -1,0 +1,15 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+body{
+    margin-top:70px!important;
+}
+
+li{
+    list-style-type:none;
+}
+
+ul.navbar-right{
+    margin-right: 0px;
+}

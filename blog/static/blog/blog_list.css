@@ -1,0 +1,8 @@
+div.blog:not(:last-child){
+    margin-bottom:2em;
+    border-bottom:1px solid #ccc;
+}
+div.paginator{
+    text-align:center;
+}
+

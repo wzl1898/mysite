@@ -1,0 +1,11 @@
+div.word{
+        text-align: center;
+        font-size: 147%;
+        margin-top:6em;
+        margin-left: 0em;
+        margin-bottom: 2em;
+    }
+
+div#container{
+    margin: 0 auto;
+}
